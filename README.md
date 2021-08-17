@@ -1,7 +1,7 @@
 ### Hi there, I'm Nikolay 👋
 
-- 🔭 I’m currently working on [**iahr**](https://github.com/B1Z0N/iahr)
-- 🌱 I’m currently learning **C# concurrency**
+- 🔭 I’m currently working on [**lazysh**](https://github.com/B1Z0N/LazyshGen)
+- 🌱 I’m currently digging deep in **C#**
 - 📫 How to reach me: **kolausf@gmail.com**
 
 <img src="https://github-profile-trophy.vercel.app/?username=B1Z0N&theme=onedark" width="100%">
