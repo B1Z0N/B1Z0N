@@ -1,6 +1,6 @@
 ### Hi there, I'm Nikolay 👋
 
-- 🔭 I’m currently working on [**lazysh**](https://github.com/B1Z0N/LazyshGen)
+- 🔭 I’m currently working on [**nevermindybot**](https://github.com/B1Z0N/nevermindybot)
 - 🌱 I’m currently digging deep in **C#**
 - 📫 How to reach me: **kolausf@gmail.com**
 
