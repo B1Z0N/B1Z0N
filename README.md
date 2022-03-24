@@ -6,6 +6,7 @@
   - Programming language design
   - Theoretical and applied math
   - Algorithms
+- 🙃 And if we are talking not about programming, then:
   - Pseudophilosophy and thinking about things
   - Singing and playing various musical instruments
   - Learning foreign languages: 我非常喜欢学习中文
