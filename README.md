@@ -6,6 +6,7 @@
   - Programming language design
   - Theoretical and applied math
   - Algorithms
+  - Pseudophilosophy and thinking about things
   - Singing and playing various musical instruments
   - Learning foreign languages: 我非常喜欢学习中文
 - 📫 How to reach me: [linktr.ee/b1z0n](https://linktr.ee/b1z0n)
