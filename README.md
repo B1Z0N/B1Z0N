@@ -1,4 +1,4 @@
-### Hi there, I'm Nikolay 👋
+### Hi there, I'm Mykola 👋
 
 - 🔭 I’m currently working on [dotnet/runtime](https://github.com/dotnet/runtime), digging deep in **C#/F#/.NET**.
 - 😎 I'm passionate about: 
