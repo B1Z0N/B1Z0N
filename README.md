@@ -1,7 +1,3 @@
-# Mykola Fedurko
-
-**Software Engineer for Code Analysis & Developer Tools**
-
 I build systems that help engineers understand and improve complex
 codebases: static analyzers, parsers, diagnostics, intermediate
 representations, compiler tooling, and correctness-oriented infrastructure.
